@@ -1,7 +1,7 @@
 # Offre de travail des femmes en couple — Logit Ordonné sur l'EEC 2024
 
 > **Mémoire de M2 TIDE** — Université · 2024–2025
-> **Auteurs :** Romaric Essessinou & Alexis Johnson
+> **Auteurs :** Marus Essessinou & Alexis Johnson
 
 ---
 
@@ -117,9 +117,3 @@ Ce projet a été mené à **deux**, dans le cadre du Master 2 TIDE. La collabor
 
 Travailler en binôme sur un projet de cette ampleur a permis d'aller plus loin — notamment dans la partie robustesse et dans la rigueur des commentaires de code — qu'un travail individuel ne l'aurait permis.
 
----
-
-## 📬 Contact
-
-- **Alexis Johnson** — [alexis.travail1@gmail.com](mailto:alexis.travail1@gmail.com) · [GitHub](https://github.com/AlexisJohnson-data)
-- **Romaric Essessinou** — M2 TIDE
